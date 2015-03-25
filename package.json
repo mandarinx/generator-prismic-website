@@ -1,0 +1,30 @@
+{
+  "name": "generator-prismic-website",
+  "version": "0.0.1",
+  "description": "A Yeoman generator for setting up projects using the prismic-website node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mandarinx/generator-prismic-website.git"
+  },
+  "keywords": [
+    "prismic",
+    "website",
+    "yeoman-generator"
+  ],
+  "author": "Thomas Viktil <mandarin@mandarin.no> (http://mandarin.no/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mandarinx/generator-prismic-website/issues"
+  },
+  "homepage": "https://github.com/mandarinx/generator-prismic-website",
+  "dependencies": {
+    "yeoman-generator": "^0.18.10"
+  },
+  "engines": {
+    "node": "0.10.35"
+  }
+}

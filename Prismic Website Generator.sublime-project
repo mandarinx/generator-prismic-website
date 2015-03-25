@@ -1,0 +1,10 @@
+{
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": "/Users/mandarin/Projects/Prismic Website/generator-prismic-website",
+            "file_exclude_patterns": ["node_modules/"]
+        }
+    ]
+}
